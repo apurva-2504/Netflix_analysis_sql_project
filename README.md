@@ -5,11 +5,11 @@
 - Categorize content based on specific criterias
 - Use basic to complex SQL queries to analyze data and remove insights.
 
-##Dataset 
+## Dataset 
 The dataset for this project is taken from Kaggle .
 Dataset link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
-##Problem statements 
+## Problem statements 
 1. Count the number of Movies vs TV Shows
 2. Find the most common rating for movies and TV shows
 3. List all movies released in a specific year (e.g., 2020)
@@ -30,7 +30,7 @@ Categorize the content based on the presence of the keywords 'kill' and 'violenc
 the description field. Label content containing these keywords as 'Bad' and all other 
 content as 'Good'. Count how many items fall into each category.
 
-##Findings and conclusions
+## Findings and conclusions
 - Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
 - Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
